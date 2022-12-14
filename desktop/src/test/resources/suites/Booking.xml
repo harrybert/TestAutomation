@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="HomePage tests">
+    <test name="HomePage tests">
+        <classes>
+            <class name="com.adjust.Tests.Booking.CreateBookingTests"/>
+        </classes>
+    </test>
+</suite>
